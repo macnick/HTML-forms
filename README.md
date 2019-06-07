@@ -2,8 +2,6 @@
 
 Project: HTML Forms
 
-<<<<<<< HEAD
-
 ### test
 
 =======
