@@ -83,7 +83,16 @@ input {
   color: #757575;
 }
 
-.footer {
+.invisible {
   color: #8d9096;
-  font-size: 10;
+  font-size: 10px;
+}
+
+.footer {
+  color: #505050;
+  font-size: 12px;
+}
+
+#textphone {
+  margin-right: auto;
 }
