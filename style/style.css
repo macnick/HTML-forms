@@ -10,6 +10,22 @@ form {
   text-align: center;
   margin: 10px;
 }
+input {
+  border: 1px solid #c1c5c8;
+  border-radius: 3px;
+  line-height: 1.3em;
+  font-size: 1.2em;
+  width: 320px;
+  height: 34px;
+  min-width: 160px;
+}
+footer {
+  margin-top: 30px;
+  color: #505050;
+  font-size: 12px;
+  text-align: center;
+  line-height: 1.5;
+}
 .nav-wrapper {
   display: flex;
   justify-content: flex-end;
@@ -62,37 +78,34 @@ i .fa-lock {
 #account {
   font-size: 14px;
 }
-input {
-  border: 1px solid #c1c5c8;
-  border-radius: 3px;
-  line-height: 1.3em;
-  font-size: 1.2em;
-  width: 320px;
-  height: 34px;
-  min-width: 160px;
-}
 
 #textphone {
   font-size: 10px;
-
 }
 
 #terms {
   font-size: 12px;
   font-style: italic;
   color: #757575;
+  padding: 0px 45px;
 }
 
 .invisible {
+  background: red;
   color: #8d9096;
   font-size: 10px;
-}
-
-.footer {
-  color: #505050;
-  font-size: 12px;
+  height: 54px;
+  width: 100%;
 }
 
 #textphone {
   margin-right: auto;
+}
+form button {
+  background: #0077c5;
+  border-radius: 4px;
+  color: white;
+  width: 328px;
+  height: 46px;
+  font-size: 17px;
 }
