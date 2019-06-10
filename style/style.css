@@ -23,14 +23,19 @@ body {
   height: 34px;
   width: 102px;
 }
+.logos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 380px;
+  margin: auto;
+}
 .form {
   display: flex;
   width: 380px;
   margin: auto;
   background: white;
   border-radius: 2px;
-  border: 1px solid #131313;
-  padding: 30px;
 }
 i .fa-lock {
   height: 1em;
