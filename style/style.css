@@ -3,9 +3,18 @@ body {
   font-family: AvenirNext, Avenir, "Helvetica Neue", Helvetica, Arial,
     sans-serif;
 }
-
-p {
-  font-size: 24px;
-  font-weight: 400;
-  color: #4c4c4c;
+.nav-wrapper {
+  float: none;
+  padding: 10px 30px;
+  height: 60px;
+  font-size: 12px;
+}
+.form {
+  display: flex;
+  width: 380px;
+  margin: auto;
+  background: white;
+  border-radius: 2px;
+  border: 1px solid #131313;
+  padding: 30px;
 }
