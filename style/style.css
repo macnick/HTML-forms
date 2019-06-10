@@ -65,7 +65,7 @@ footer {
   border-bottom: 1px solid #c1c5c8;
   color: #4c4c4c;
 }
-.form a {
+#terms a {
   font-size: 12px;
 }
 i .fa-lock {
@@ -86,21 +86,22 @@ i .fa-lock {
 #textphone {
   font-size: 10px;
 }
-
 #terms {
   font-size: 12px;
   font-style: italic;
   color: #757575;
   padding: 0px 45px;
 }
-
 .invisible {
+  display: flex;
+  justify-content: center;
   background: #eceef1;
   color: #8d9096;
   font-size: 10px;
   height: 54px;
   width: 100%;
   justify-content: center;
+  align-items: center;
 }
 
 #textphone {
