@@ -71,3 +71,19 @@ input {
   height: 34px;
   min-width: 160px;
 }
+
+#textphone {
+  font-size: 10px;
+
+}
+
+#terms {
+  font-size: 12px;
+  font-style: italic;
+  color: #757575;
+}
+
+.footer {
+  color: #8d9096;
+  font-size: 10;
+}
