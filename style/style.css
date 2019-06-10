@@ -55,6 +55,7 @@ footer {
 }
 .form {
   display: flex;
+  flex-wrap: wrap;
   width: 380px;
   margin: auto;
   background: white;
@@ -91,11 +92,12 @@ i .fa-lock {
 }
 
 .invisible {
-  background: red;
+  background: #eceef1;
   color: #8d9096;
   font-size: 10px;
   height: 54px;
   width: 100%;
+  justify-content: center;
 }
 
 #textphone {
@@ -108,4 +110,8 @@ form button {
   width: 328px;
   height: 46px;
   font-size: 17px;
+}
+label {
+  color: red;
+  justify-items: flex-start;
 }
