@@ -60,6 +60,9 @@ footer {
   margin: auto;
   background: white;
   border-radius: 2px;
+  border-left: 1px solid #c1c5c8;
+  border-right: 1px solid #c1c5c8;
+  border-bottom: 1px solid #c1c5c8;
   color: #4c4c4c;
 }
 .form a {
