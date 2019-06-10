@@ -3,6 +3,13 @@ body {
   font-family: AvenirNext, Avenir, "Helvetica Neue", Helvetica, Arial,
     sans-serif;
 }
+a {
+  text-decoration: none;
+}
+form {
+  text-align: center;
+  margin: 10px;
+}
 .nav-wrapper {
   display: flex;
   justify-content: flex-end;
@@ -36,6 +43,10 @@ body {
   margin: auto;
   background: white;
   border-radius: 2px;
+  color: #4c4c4c;
+}
+.form a {
+  font-size: 12px;
 }
 i .fa-lock {
   height: 1em;
@@ -44,6 +55,19 @@ i .fa-lock {
   margin-right: 4px;
   vertical-align: text-top;
 }
-#nav-forgot-link {
-  text-decoration: none;
+
+#create {
+  font-size: 24px;
+}
+#account {
+  font-size: 14px;
+}
+input {
+  border: 1px solid #c1c5c8;
+  border-radius: 3px;
+  line-height: 1.3em;
+  font-size: 1.2em;
+  width: 320px;
+  height: 34px;
+  min-width: 160px;
 }
