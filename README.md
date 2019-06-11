@@ -22,4 +22,5 @@ Used:
 ![screenshot](img/screenshot.jpg)
 
 ## The Website
-Follow the link to acess to the Website: https://dannyclever.github.io/embedding-images-and-video/
+
+Follow the link to acess to the Website: https://macnick.github.io/HTML-forms/
