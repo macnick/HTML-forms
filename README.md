@@ -2,7 +2,7 @@
 
 =======
 
-## Microverse 1st project
+## Microverse 2nd project
 
 ### Mint.com’s signup page clone
 
