@@ -1,0 +1,25 @@
+body {
+  display: block;
+  background: #eceef1;
+  font-family: AvenirNext, Avenir, "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+}
+header {
+  display: flex;
+  justify-content: flex-end;
+  background: #a50000;
+}
+.logos,
+.form {
+  display: flex;
+  background: #00a800;
+  justify-content: center;
+}
+footer {
+  display: flex;
+  background: #0000a9;
+  justify-content: center;
+}
+form label {
+  color: red;
+}
